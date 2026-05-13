@@ -11,7 +11,7 @@ A visual **DFA / NFA builder and simulator** built with pure HTML, CSS, and Canv
 
 ## 🌐 Live Demo
 
-> **https://YOUR-USERNAME.github.io/automaton-studio/**
+> **https://github.com/Aniruddh-Saraswat08/Automation-Studio**
 
 ---
 
