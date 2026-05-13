@@ -1,0 +1,10 @@
+# Automaton Studio - Requirements
+# No dependencies required.
+# This is a pure HTML/CSS/JavaScript project.
+# No packages, frameworks, or libraries need to be installed.
+
+# The entire app runs in a single file: index.html
+# All fonts are loaded from Google Fonts CDN (requires internet connection).
+
+# To run locally: just open index.html in any modern browser.
+# To deploy: upload index.html to GitHub Pages (see README).
